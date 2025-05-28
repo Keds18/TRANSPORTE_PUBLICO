@@ -11,7 +11,7 @@ st.markdown("""
 -Ingrese los parámetros correspondientes para la **Hora de Máxima Demanda** y la **Hora Valle**.
 """)
 
-st.sidebar.image("https://cdn-icons-png.flaticon.com/512/479/479836.png", width=100)
+st.sidebar.image("logo_2.jpeg", width=100)
 st.sidebar.header("🔧 Parámetros de Entrada")
 st.sidebar.markdown("Completa los siguientes campos para cada período horario:")
 
