@@ -114,7 +114,6 @@ st.markdown("""
     <p>© 2025 <strong>Public_Transport_Kevin_Galindo_Antezana</strong> | All rights reserved, please reference.</p>
     <p>📧 Contacto: <a href="mailto:keds1810@gmail.com">keds1810@gmail.com</a></p>
     <p>Developed with Python + Streamlit</p>
-    <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
     </div>
 
 """, unsafe_allow_html=True)
