@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#00BFAE"              # Teal vibrante para botones y acentos
+backgroundColor = "#FFFFFF"           # Fondo general blanco, muy luminoso
+secondaryBackgroundColor = "#FFF5F0"  # Fondo secundario coral muy claro
+textColor = "#22223B"                 # Gris oscuro para excelente contraste
+font = "sans serif"                   # Fuente moderna y limpia
+
+[browser]
+gatherUsageStats = false
