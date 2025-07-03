@@ -3,7 +3,7 @@ import pandas as pd
 from func_dimen_ruta import *
 from graficas_rutas2 import graficar_recorrido_vehiculos2, graficar_oferta_acumulada
 
-st.set_page_config(page_title="Dimensionamiento de Ruta Básica", layout="wide", page_icon="logo_2.jpeg")
+st.set_page_config(page_title="Dimensionamiento de Ruta Básica", layout="wide", page_icon="KDS_COMPANY.png")
 st.title("🚍 Dimensionamiento de Ruta de Transporte Público")
 
 st.markdown("""
