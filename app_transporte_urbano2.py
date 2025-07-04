@@ -111,9 +111,9 @@ interfaz(tab2, "HV")
 st.markdown("""
 <hr>
 <div style='text-align: center; font-size: 0.9em; color: gray;'>
-    <p>© 2025 <strong>Public_Transport_Kevin_Galindo_Antezana</strong> | All rights reserved, please reference.</p>
+    <p>© 2025 <strong>Public_Transport | Kevin Galindo Antezana</strong> | All rights reserved, please reference.</p>
     <p>📧 Contact: <a href="mailto:keds1810@gmail.com">keds1810@gmail.com</a></p>
-    <p>Developed with Python + Streamlit</p>
+    <p>🔧 Developed with Python + Streamlit</p>
     </div>
 
 """, unsafe_allow_html=True)
